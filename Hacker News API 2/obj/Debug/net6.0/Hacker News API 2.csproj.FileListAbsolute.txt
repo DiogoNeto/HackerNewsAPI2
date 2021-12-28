@@ -1,0 +1,28 @@
+C:\Users\NB27400\Projects\entityFramework\Hacker News API 2\Hacker News API 2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\NB27400\Projects\entityFramework\Hacker News API 2\Hacker News API 2\bin\Debug\net6.0\appsettings.json
+C:\Users\NB27400\Projects\entityFramework\Hacker News API 2\Hacker News API 2\bin\Debug\net6.0\Hacker News API 2.exe
+C:\Users\NB27400\Projects\entityFramework\Hacker News API 2\Hacker News API 2\bin\Debug\net6.0\Hacker News API 2.deps.json
+C:\Users\NB27400\Projects\entityFramework\Hacker News API 2\Hacker News API 2\bin\Debug\net6.0\Hacker News API 2.runtimeconfig.json
+C:\Users\NB27400\Projects\entityFramework\Hacker News API 2\Hacker News API 2\bin\Debug\net6.0\Hacker News API 2.dll
+C:\Users\NB27400\Projects\entityFramework\Hacker News API 2\Hacker News API 2\bin\Debug\net6.0\ref\Hacker News API 2.dll
+C:\Users\NB27400\Projects\entityFramework\Hacker News API 2\Hacker News API 2\bin\Debug\net6.0\Hacker News API 2.pdb
+C:\Users\NB27400\Projects\entityFramework\Hacker News API 2\Hacker News API 2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\NB27400\Projects\entityFramework\Hacker News API 2\Hacker News API 2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\NB27400\Projects\entityFramework\Hacker News API 2\Hacker News API 2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\NB27400\Projects\entityFramework\Hacker News API 2\Hacker News API 2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\NB27400\Projects\entityFramework\Hacker News API 2\Hacker News API 2\obj\Debug\net6.0\Hacker News API 2.csproj.AssemblyReference.cache
+C:\Users\NB27400\Projects\entityFramework\Hacker News API 2\Hacker News API 2\obj\Debug\net6.0\Hacker News API 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NB27400\Projects\entityFramework\Hacker News API 2\Hacker News API 2\obj\Debug\net6.0\Hacker News API 2.AssemblyInfoInputs.cache
+C:\Users\NB27400\Projects\entityFramework\Hacker News API 2\Hacker News API 2\obj\Debug\net6.0\Hacker News API 2.AssemblyInfo.cs
+C:\Users\NB27400\Projects\entityFramework\Hacker News API 2\Hacker News API 2\obj\Debug\net6.0\Hacker News API 2.csproj.CoreCompileInputs.cache
+C:\Users\NB27400\Projects\entityFramework\Hacker News API 2\Hacker News API 2\obj\Debug\net6.0\Hacker News API 2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\NB27400\Projects\entityFramework\Hacker News API 2\Hacker News API 2\obj\Debug\net6.0\Hacker News API 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NB27400\Projects\entityFramework\Hacker News API 2\Hacker News API 2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\NB27400\Projects\entityFramework\Hacker News API 2\Hacker News API 2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\NB27400\Projects\entityFramework\Hacker News API 2\Hacker News API 2\obj\Debug\net6.0\scopedcss\bundle\Hacker News API 2.styles.css
+C:\Users\NB27400\Projects\entityFramework\Hacker News API 2\Hacker News API 2\obj\Debug\net6.0\Hacker News API 2.csproj.CopyComplete
+C:\Users\NB27400\Projects\entityFramework\Hacker News API 2\Hacker News API 2\obj\Debug\net6.0\Hacker News API 2.dll
+C:\Users\NB27400\Projects\entityFramework\Hacker News API 2\Hacker News API 2\obj\Debug\net6.0\ref\Hacker News API 2.dll
+C:\Users\NB27400\Projects\entityFramework\Hacker News API 2\Hacker News API 2\obj\Debug\net6.0\Hacker News API 2.pdb
+C:\Users\NB27400\Projects\entityFramework\Hacker News API 2\Hacker News API 2\obj\Debug\net6.0\Hacker News API 2.genruntimeconfig.cache
+C:\Users\NB27400\Projects\entityFramework\Hacker News API 2\Hacker News API 2\bin\Debug\net6.0\Newtonsoft.Json.dll
