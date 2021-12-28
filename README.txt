@@ -1,6 +1,6 @@
 HACKER NEWS API 2 - .NET6 ASP.NET WEB API
 
-developed in Microsoft Visual Studio Community 2022 (64-bit) 
+developed by Diogo Conceição in Microsoft Visual Studio Community 2022 (64-bit) 
 
 Open the solutions in file "Hacker News API 2.sln" and run it!
 
